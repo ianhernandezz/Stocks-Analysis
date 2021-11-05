@@ -12,6 +12,7 @@ Creating a stocks analysis for our client Steve
 <img width="270" alt="VBA_Results_2017" src="https://user-images.githubusercontent.com/92615504/140557886-5238fa5a-51ef-4f52-be5e-889bd2cf1276.png">|  <img width="269" alt="VBA_Results_2018" src="https://user-images.githubusercontent.com/92615504/140557897-a4fd16ca-aec0-4bf1-9991-3c1ebe967193.png">
 
 **2.	Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.**
+
 As the original code was being written and tested it can be determined from the execution of the code that it takes a bit of time to run the code.
 2017             |  
 :-------------------------:
@@ -28,11 +29,12 @@ With the refactored code it made a significant improvement from the original cod
 
 **3.	Summary: In a summary statement, address the following questions.**
 
-a. What are the advantages or disadvantages of refactoring code?
-  After the refactoring of the original code some of the notable advantages are; the timing and the organization. The original code, compared to the refactored,    was inefficient, which is why when the new code was execute, it delivered results much quicker. The organization was also a result of this, which made the code neater and exact.
+**a. What are the advantages or disadvantages of refactoring code?** 
+
+ After the refactoring of the original code some of the notable advantages are; the timing and the organization. The original code, compared to the refactored,    was inefficient, which is why when the new code was execute, it delivered results much quicker. The organization was also a result of this, which made the code neater and exact.
     
-b. How do these pros and cons apply to refactoring the original VBA script?
-    
+**b. How do these pros and cons apply to refactoring the original VBA script?**    
+
   The application of the refactored code proves pros such as a more organized code, with descriptions as to what the code is meant to do. This allows for the ease of understanding of other people that might be taking a look at the code to understand it better at a glance. A con, which I personally ran into was, that when the code was being created, I had to really pay attention and follow the flow of the code if not I would get lost. Bringing it back to the pro of the descriptions so others will not get lost or misunderstand. 
     
     
