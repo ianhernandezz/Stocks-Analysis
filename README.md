@@ -1,4 +1,4 @@
-# Stocks-Analysis
+# For Steve - Stocks Analysis 
 Creating a stocks analysis for our client Steve
 
 
@@ -10,6 +10,17 @@ Creating a stocks analysis for our client Steve
 2017             |  2018
 :-------------------------:|:-------------------------:
 <img width="270" alt="VBA_Results_2017" src="https://user-images.githubusercontent.com/92615504/140557886-5238fa5a-51ef-4f52-be5e-889bd2cf1276.png">|  <img width="269" alt="VBA_Results_2018" src="https://user-images.githubusercontent.com/92615504/140557897-a4fd16ca-aec0-4bf1-9991-3c1ebe967193.png">
+
+*the results presented above are based on the **refactored** code.
+
+
+**The Original Code**
+
+<img width="510" alt="Screen Shot 2021-11-06 at 9 28 34 PM" src="https://user-images.githubusercontent.com/92615504/140628837-2d3d18d7-3f8c-4426-9d66-7f8e9c67a986.png">
+
+**Notes:**
+- As it can be seen from this screenshot, it can be determined that this code is inneficient as it does have to run through all of the code one by one. 
+- Doing one line at at a time causes the code to have to go through the process and come back to repeat it for each ticker on the array. 
 
 **2.	Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.**
 
