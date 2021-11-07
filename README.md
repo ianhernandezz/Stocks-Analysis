@@ -22,6 +22,16 @@ Creating a stocks analysis for our client Steve
 - As it can be seen from this screenshot, it can be determined that this code is inneficient as it does have to run through all of the code one by one. 
 - Doing one line at at a time causes the code to have to go through the process and come back to repeat it for each ticker on the array. 
 
+**The Refactored Code**
+
+ <img width="659" alt="Screen Shot 2021-11-06 at 9 37 26 PM" src="https://user-images.githubusercontent.com/92615504/140628977-655cd477-b002-4834-b0fc-5420774357cf.png">
+ 
+**Notes:**
+- Comparing this code(Refactored) to the original code in the previous screenshot it can be determined that this one is much more efficient.
+- The code here is going through all the information simultaniously, making this code much more efficient than its predecesor. 
+
+
+
 **2.	Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.**
 
 As the original code was being written and tested it can be determined from the execution of the code that it takes a bit of time to run the code.
