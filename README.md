@@ -14,10 +14,10 @@ Creating a stocks analysis for our client Steve
 **2.	Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.**
 
 As the original code was being written and tested it can be determined from the execution of the code that it takes a bit of time to run the code.
-2017             |  
-:-------------------------:
-<img width="249" alt="VBA_OG_Timer" src="https://user-images.githubusercontent.com/92615504/140556653-6a3295eb-9885-4b3f-b969-a3efb7fe826b.png">|
-
+2017             |  2018
+:-------------------------:|:-------------------------:
+|<img width="251" alt="VBA_Challenge_2017(1)" src="https://user-images.githubusercontent.com/92615504/140628489-1bd1bd5d-e9d4-4b7c-abf4-835ec5a14979.png">|<img width="253" alt="VBA_Challenge_2018(1)" src="https://user-images.githubusercontent.com/92615504/140628493-169310c0-37f6-4039-98be-a37152e58f1f.png">
+ 
 With the refactored code it made a significant improvement from the original code as it can be seen from the execution for both years (2017 + 2018).
 
 
